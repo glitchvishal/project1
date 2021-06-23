@@ -1,0 +1,199 @@
+#body{
+    background-color: #FFF8F0
+}
+#header{
+    color: #6e4555;
+    border: 2px solid black;
+    margin: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: #f5e3e0;
+    
+}
+/*div{
+    margin: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 10px 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: palegoldenrod;
+}*/
+
+h1{
+    margin: 20px 10px 5px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+td{
+    border: 1px solid black;
+}
+.form2{
+    background:khaki;
+    box-shadow: 0 40px 70px 0 rgba(35, 59, 88, 0.4);;
+    color:#333;
+    border-radius: 5px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8px;
+    padding-right: 350px;
+    padding-left: 350px;
+    padding-bottom: 100px;
+    border-top: 8px solid #333;
+    position: relative;
+    animation: bounce 2.5s infinite ;
+
+}
+.formentry2{
+    display: block;
+    margin: 20px auto;
+    min-width: 400px;
+    padding: 10px;
+    border-radius: 2px;
+    border:none;
+    transition: all 0.3s ease 0s;
+}
+.first_name{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.first_name:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.last_name{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.last_name:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.email{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.email:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.dob{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.dob:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.ads{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.ads:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.country{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.country:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.state{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.state:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.mobile{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.mobile:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.clg{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.clg:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.edu{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.edu:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.office1{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.office1:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.office2{
+    background-color: #e1e6da;
+    color: #16181d;
+}
+.office2:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.no{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+.opption{
+    font-size: 20px;
+}
+.submit:hover{
+    border-right: 3px solid #333;
+    border-left: 3px solid #333;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
